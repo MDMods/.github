@@ -1,6 +1,6 @@
 [![](https://dcbadge.vercel.app/api/server/mdmc)](https://discord.gg/mdmc)
 # Muse Dash Modding Community
-Welcome to the official GitHub organization for the Muse Dash modding community! This organization is dedicated to providing a central location for all Muse Dash mods, tools, and resources. We hope to provide a place for modders to collaborate and share their work with the community.
+Welcome to the official GitHub organization for the Muse Dash Modding Community! This organization is dedicated to providing a central location for all Muse Dash mods, tools, and resources. We hope to provide a place for modders to collaborate and share their work with the community.
 ## Discord
 Join our [Discord server](https://discord.gg/mdmc) to chat with the community, get help with modding, and stay up to date with the latest news and releases. If you are interested in modding in particular, we have a dedicated category for modding discussion and support.
 ## Contributing
