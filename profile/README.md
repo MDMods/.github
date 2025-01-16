@@ -6,4 +6,4 @@ Join our [Discord server](https://discord.gg/mdmc) to chat with the community, g
 ## Contributing
 If you would like to contribute to any project, please read our [contributing guidelines](CONTRIBUTING.md) for more information.
 ## Move your mod here!
-If you have a mod that you would like to share with the community, please consider moving it to this organization. We would love to have your work here! If you are interested, please contact AshtonMemer on the [Discord server](https://discord.gg/mdmc) for more information.
+If you have a mod that you would like to share with the community, please consider moving it to this organization. We would love to have your work here! If you are interested, please contact Ashton on the [Discord server](https://discord.gg/mdmc) for more information.
